@@ -1,7 +1,7 @@
 actions :define
 
 attribute :name, :kind_of => String, :name_attribute => true
-attribute :default, :default => nil
+attribute :namespace, :default => "preferred"
 
 def initialize(*args)
   super
