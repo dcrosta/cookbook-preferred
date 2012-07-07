@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/dcrosta/cookbook-preferred.png?branch=master)](http://travis-ci.org/dcrosta/cookbook-preferred)
+
 Description
 ===========
 
